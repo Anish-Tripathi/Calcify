@@ -77,19 +77,19 @@ Calcify automatically adapts to:
 
 <div align="center" style="display: flex; flex-direction: column; gap: 20px;">
 
-<img src="./screenshots/arithematic.png" alt="Arithmetic Calculation" width="600" height="550"/>
+<img src="./screenshots/arithematic.png" alt="Arithmetic Calculation" width="400" height="400"/>
 <p><strong>💻 Arithmetic Calculation</strong></p>
 
-<img src="./screenshots/scientific.png" alt="Scientific Calculation" width="600" height="550"/>
+<img src="./screenshots/scientific.png" alt="Scientific Calculation" width="400" height="400"/>
 <p><strong>💻 Scientific Calculation</strong></p>
 
-<img src="./screenshots/unit.png" alt="Unit Conversion" width="600" height="550"/>
+<img src="./screenshots/unit.png" alt="Unit Conversion" width="400" height="400"/>
 <p><strong>💻 Unit Conversion</strong></p>
 
-<img src="./screenshots/equation.png" alt="NLP Inputs" width="600" height="550"/>
+<img src="./screenshots/equation.png" alt="NLP Inputs" width="400" height="400"/>
 <p><strong>💻 NLP Inputs</strong></p>
 
-<img src="./screenshots/history.png" alt="History" width="600" height="550"/>
+<img src="./screenshots/history.png" alt="History" width="400" height="400"/>
 <p><strong>💻 History</strong></p>
 
 </div>
