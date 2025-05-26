@@ -69,7 +69,7 @@ Calcify automatically adapts to:
 
 ## 🔗 Live Demo
 
-👉 **Check it out here:** [https://calcify.vercel.app](https://calcify.vercel.app)
+👉 **Check it out here:** (https://calcify-tau.vercel.app/)
 
 ---
 
