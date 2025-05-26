@@ -7,6 +7,7 @@
 ## 🚀 Features
 
 ### 🔢 Core Functionality
+
 - **Basic & Scientific Calculations**  
   Supports arithmetic operations, exponents, square roots, logarithms, and trigonometric functions.
 
@@ -33,19 +34,22 @@
 ## 🎨 Design System
 
 ### ✨ Interface Style
+
 - **Minimalist and modern** – Apple-inspired with generous white space
 - **Clear visual hierarchy** – Easy-to-read layout and intuitive navigation
 - **Responsive** – Fully adaptable to mobile, tablet, and desktop
 
 ### 🎨 Color Palette
-| Name         | Hex        | Purpose                 |
-|--------------|------------|-------------------------|
-| Slate Blue   | `#3B4664`  | Primary background      |
-| Bright Cyan  | `#63CDDA`  | Interactive accents     |
-| Orange       | `#F97316`  | Highlighting / alerts   |
-| Additional   | `Success`, `Warning`, `Error` | Status feedback |
+
+| Name        | Hex                           | Purpose               |
+| ----------- | ----------------------------- | --------------------- |
+| Slate Blue  | `#3B4664`                     | Primary background    |
+| Bright Cyan | `#63CDDA`                     | Interactive accents   |
+| Orange      | `#F97316`                     | Highlighting / alerts |
+| Additional  | `Success`, `Warning`, `Error` | Status feedback       |
 
 ### 🧩 UI Details
+
 - **8px spacing system** for visual consistency
 - **Modern sans-serif typography** for clarity and balance
 - **Custom tactile calculator buttons** with hover and active states
@@ -56,6 +60,7 @@
 ## 📱 Fully Responsive
 
 Calcify automatically adapts to:
+
 - ✅ Mobile phones
 - ✅ Tablets
 - ✅ Desktop browsers
@@ -64,20 +69,35 @@ Calcify automatically adapts to:
 
 ## 🔗 Live Demo
 
-👉 **Check it out here:** [https://calcify.vercel.app](https://calcify.vercel.app)  
+👉 **Check it out here:** [https://calcify.vercel.app](https://calcify.vercel.app)
 
 ---
 
-## 📸 Screenshots
+## 📸 Preview
 
-### 💻 Desktop View
-![Calcify Desktop Screenshot](./screenshots/desktop.png)
+<div align="center" style="display: flex; flex-direction: column; gap: 20px;">
 
+<img src="./screenshots/arithematic.png" alt="Arithmetic Calculation" width="600" height="350"/>
+<p><strong>💻 Arithmetic Calculation</strong></p>
 
+<img src="./screenshots/scientific.png" alt="Scientific Calculation" width="600" height="350"/>
+<p><strong>💻 Scientific Calculation</strong></p>
+
+<img src="./screenshots/unit.png" alt="Unit Conversion" width="600" height="350"/>
+<p><strong>💻 Unit Conversion</strong></p>
+
+<img src="./screenshots/equation.png" alt="NLP Inputs" width="600" height="350"/>
+<p><strong>💻 NLP Inputs</strong></p>
+
+<img src="./screenshots/history.png" alt="History" width="600" height="350"/>
+<p><strong>💻 History</strong></p>
+
+</div>
 
 ---
 
 ## 🛠️ Tech Stack (suggested)
+
 - **Frontend**: React, TypeScript (or JavaScript)
 - **Styling**: Tailwind CSS or CSS Modules
 - **Math Engine**: [math.js](https://mathjs.org/) or custom parser
@@ -86,12 +106,10 @@ Calcify automatically adapts to:
 ---
 
 ## 💡 Future Enhancements
+
 - Voice input for hands-free calculations
 - Graphing feature for visualizing equations
 - Support for matrix operations and calculus
 - Export history to CSV or PDF
 
 ---
-
-
-
