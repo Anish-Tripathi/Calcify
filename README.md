@@ -96,12 +96,12 @@ Calcify automatically adapts to:
 
 ---
 
-## 🛠️ Tech Stack (suggested)
+## 🛠️ Tech Stack
 
 - **Frontend**: React, TypeScript (or JavaScript)
 - **Styling**: Tailwind CSS or CSS Modules
 - **Math Engine**: [math.js](https://mathjs.org/) or custom parser
-- **Deployment**: Vercel / Netlify / GitHub Pages
+- **Deployment**: Vercel 
 
 ---
 
