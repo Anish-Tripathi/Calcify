@@ -1,4 +1,4 @@
-# 🧠 Calcify – The Smart, Modern Calculator
+# Calcify – The Smart, Modern Calculator
 
 **Calcify** is a sleek, intelligent calculator designed for real-world usability and clarity. It supports everything from basic arithmetic to advanced scientific functions, and goes beyond traditional calculators by providing **step-by-step explanations**, **natural language input**, and a responsive, visually refined UI.
 
