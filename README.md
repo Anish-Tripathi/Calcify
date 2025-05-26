@@ -14,19 +14,19 @@
 - **Equation Solver**  
   Solve linear and quadratic equations with clear, step-by-step explanations to enhance learning.
 
-- **🗣 Natural Language Input**  
+- ** Natural Language Input**  
   Parse common queries like “What is 25% of 180?” or “Solve x² + 5x + 6 = 0”.
 
-- **🕓 Calculation History**  
+- **Calculation History**  
   View, reuse, and copy previous calculations with ease.
 
-- **📏 Unit Converter**  
+- ** Unit Converter**  
   Seamlessly convert between length, weight, temperature, and other common units.
 
-- **🌗 Dark Mode**  
+- ** Dark Mode**  
   Switch between light and dark themes for comfortable use in any lighting environment.
 
-- **💾 Memory Functions**  
+- **Memory Functions**  
   Store and recall values, just like a classic calculator — but smarter.
 
 ---
