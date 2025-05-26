@@ -65,7 +65,6 @@ Calcify automatically adapts to:
 ## 🔗 Live Demo
 
 👉 **Check it out here:** [https://calcify.vercel.app](https://calcify.vercel.app)  
-_(replace with your actual deployed link)_
 
 ---
 
@@ -74,13 +73,7 @@ _(replace with your actual deployed link)_
 ### 💻 Desktop View
 ![Calcify Desktop Screenshot](./screenshots/desktop.png)
 
-### 📱 Mobile View (Dark Mode)
-![Calcify Mobile Dark](./screenshots/mobile-dark.png)
 
-### ✨ Step-by-Step Solver
-![Step-by-step Explanation](./screenshots/steps.png)
-
-> _Add your screenshots in a `/screenshots` folder or adjust the path accordingly._
 
 ---
 
