@@ -77,27 +77,27 @@ Calcify automatically adapts to:
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
 
-  <div>
+  <div style="width: 400px; text-align: center;">
     <img src="./screenshots/arithematic.png" alt="Arithmetic Calculation" width="400" height="400"/>
     <p><strong>💻 Arithmetic Calculation</strong></p>
   </div>
 
-  <div>
+  <div style="width: 400px; text-align: center;">
     <img src="./screenshots/scientific.png" alt="Scientific Calculation" width="400" height="400"/>
     <p><strong>💻 Scientific Calculation</strong></p>
   </div>
 
-  <div>
+  <div style="width: 400px; text-align: center;">
     <img src="./screenshots/unit.png" alt="Unit Conversion" width="400" height="400"/>
     <p><strong>💻 Unit Conversion</strong></p>
   </div>
 
-  <div>
+  <div style="width: 400px; text-align: center;">
     <img src="./screenshots/equation.png" alt="NLP Inputs" width="400" height="400"/>
     <p><strong>💻 NLP Inputs</strong></p>
   </div>
 
-  <div>
+  <div style="width: 400px; text-align: center;">
     <img src="./screenshots/history.png" alt="History" width="400" height="400"/>
     <p><strong>💻 History</strong></p>
   </div>
