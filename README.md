@@ -75,7 +75,7 @@ Calcify automatically adapts to:
 
 ## 📸 Preview
 
-<div align="center" style="display: flex; flex-direction: column; gap: 20px;">
+<div align="center" style="display: flex; flex-direction: row; gap: 20px;">
 
 <img src="./screenshots/arithematic.png" alt="Arithmetic Calculation" width="400" height="400"/>
 <p><strong>💻 Arithmetic Calculation</strong></p>
