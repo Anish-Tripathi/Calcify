@@ -75,24 +75,35 @@ Calcify automatically adapts to:
 
 ## 📸 Preview
 
-<div align="center" style="display: flex; flex-direction: row; gap: 20px;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
 
-<img src="./screenshots/arithematic.png" alt="Arithmetic Calculation" width="400" height="400"/>
-<p><strong>💻 Arithmetic Calculation</strong></p>
+  <div>
+    <img src="./screenshots/arithematic.png" alt="Arithmetic Calculation" width="400" height="400"/>
+    <p><strong>💻 Arithmetic Calculation</strong></p>
+  </div>
 
-<img src="./screenshots/scientific.png" alt="Scientific Calculation" width="400" height="400"/>
-<p><strong>💻 Scientific Calculation</strong></p>
+  <div>
+    <img src="./screenshots/scientific.png" alt="Scientific Calculation" width="400" height="400"/>
+    <p><strong>💻 Scientific Calculation</strong></p>
+  </div>
 
-<img src="./screenshots/unit.png" alt="Unit Conversion" width="400" height="400"/>
-<p><strong>💻 Unit Conversion</strong></p>
+  <div>
+    <img src="./screenshots/unit.png" alt="Unit Conversion" width="400" height="400"/>
+    <p><strong>💻 Unit Conversion</strong></p>
+  </div>
 
-<img src="./screenshots/equation.png" alt="NLP Inputs" width="400" height="400"/>
-<p><strong>💻 NLP Inputs</strong></p>
+  <div>
+    <img src="./screenshots/equation.png" alt="NLP Inputs" width="400" height="400"/>
+    <p><strong>💻 NLP Inputs</strong></p>
+  </div>
 
-<img src="./screenshots/history.png" alt="History" width="400" height="400"/>
-<p><strong>💻 History</strong></p>
+  <div>
+    <img src="./screenshots/history.png" alt="History" width="400" height="400"/>
+    <p><strong>💻 History</strong></p>
+  </div>
 
 </div>
+
 
 ---
 
