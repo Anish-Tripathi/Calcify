@@ -87,6 +87,10 @@ Calcify automatically adapts to:
     <p><strong>💻 Scientific Calculation</strong></p>
   </div>
 
+</div>
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
+
   <div style="width: 400px; text-align: center;">
     <img src="./screenshots/unit.png" alt="Unit Conversion" width="400" height="400"/>
     <p><strong>💻 Unit Conversion</strong></p>
@@ -96,6 +100,10 @@ Calcify automatically adapts to:
     <img src="./screenshots/equation.png" alt="NLP Inputs" width="400" height="400"/>
     <p><strong>💻 NLP Inputs</strong></p>
   </div>
+
+</div>
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
 
   <div style="width: 400px; text-align: center;">
     <img src="./screenshots/history.png" alt="History" width="400" height="400"/>
